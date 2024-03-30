@@ -4,4 +4,4 @@
 * with OS 14.3.1
 * AirDrop + WiFi + Bluetooth
 
-Root patching might need to be performed to ensure the WiFi working
+Root patching (OCLP) might need to be performed to ensure the WiFi working.
